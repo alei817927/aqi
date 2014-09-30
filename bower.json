@@ -1,0 +1,24 @@
+{
+  "name": "aqi",
+  "version": "0.0.1",
+  "authors": [
+    "alei <alei817927@gmail.com>"
+  ],
+  "description": "build aqi and primary pollutants",
+  "main": "jquery.aqi.min.js",
+  "keywords": [
+    "aqi",
+    "\"primary",
+    "pollutants\""
+  ],
+  "license": "MIT",
+  "homepage": "http://www.u396.com/aqi.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".idea"
+  ]
+}
